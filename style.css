@@ -32,6 +32,9 @@ h1{
     color: rgb(231, 231, 231);
 }
 h3{
-    font-size: 40px;
+    font-size: 75px;
     color: rgb(231, 231, 231);
+}
+#name{
+    font-size: 20px;
 }
